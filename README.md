@@ -1,84 +1,90 @@
 
-<h1 align="center"><img src="https://media.giphy.com/media/IeRdg7zdcKxeg/giphy.gif" width="50"/> Shaik Riyaz — AI/ML Developer in the Making </h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/IeRdg7zdcKxeg/giphy.gif" width="150"/>
+</p>
+
+<h1 align="center"><strong>Shaik Riyaz</strong></h1>
+<h3 align="center">🚀 AI/ML Enthusiast | Full Stack Developer | Ironman-Inspired Coder</h3>
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Powered%20By-Python%20%26%20AI-red?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Iron%20Mind-Focused-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/POWERED_BY-Python,%20Django,%20ML-red?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CODE_MODE-Stark-Tech-blue?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00F7FF&width=435&lines=AI+Engineer+in+Progress...;Coding+Like+Tony+Stark;Crafting+Real-Time+Solutions;Always+Learning%2C+Always+Evolving" />
 </p>
 
 ---
 
-## 🦾 About Me – The Dev Behind the Code
+## 🧠 About Me
 
-> “Sometimes you gotta run before you can walk.” – **Tony Stark**
-
-🧠 Self-driven and future-focused, I’m a final-year **CSE (AI/ML)** student with passion for AI systems, web apps, and real-time tech.
-
-- 🧰 Building solutions that feel like J.A.R.V.I.S. for real-world problems  
-- 🤖 AI/ML | Django | SQL | Full Stack  
-- 🚀 Constantly learning and upgrading
+💡 I'm a CSE (AI/ML) Final Year Student passionate about building intelligent, responsive apps and solving real-world problems with code.  
+⚙️ Specialize in Python, Django, ML, and responsive web technologies.  
+🧰 Tech-stacked like Stark's suit – fast, futuristic, and functional.
 
 ---
 
-## 🧪 Technologies in My Suit
+## 🧪 My Ironman Tech Stack
 
-```python
-MY_TECH_STACK = {
-    "Languages": ["Python", "JavaScript", "HTML", "CSS"],
-    "Frameworks": ["Django", "Flask"],
-    "Database": ["MS SQL Server"],
-    "Machine Learning": ["Pandas", "Scikit-learn", "TensorFlow"],
-    "Tools": ["VS Code", "Excel"],
-    "Soft Skills": ["Problem Solving", "Time Management", "Communication"]
-}
+```py
+🧠 LANGUAGES        : Python | JavaScript | HTML | CSS
+🧰 FRAMEWORKS       : Django | Flask
+🗄️ DATABASE         : MS SQL Server
+📦 TOOLS            : VS Code | GitHub | Excel
+🧬 ML STACK         : Pandas | Scikit-learn | TensorFlow
+🧠 SOFT SKILLS      : Time Management | Problem Solving | Teamwork
 ```
 
 ---
 
-## 🧰 My Arc Reactor (Projects)
+## 🛠️ Projects (My Mini J.A.R.V.I.S.)
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| 🛰️ **Drought Prediction (DCNN + Flask)** | Python, ML, Flask | CNN model with 95% accuracy to predict drought from satellite imagery |
-| 🛠️ **Machine Management System** | Java Full Stack | Frontend dev of an internal system for machine ops |
-| 🌦️ **Weather App** | JS, HTML, CSS, OpenWeather API | Real-time responsive weather dashboard |
+| 💻 Project | 💡 Description | 🛠️ Tech |
+|-----------|----------------|---------|
+| 🛰️ Drought Predictor | Real-time DCNN model with 95% accuracy to detect drought zones from satellite data | Python, Flask, CNN |
+| 🧾 Machine Manager | Full-stack machine management system (Frontend Dev role) | Java, HTML/CSS |
+| 🌦️ Weather Dashboard | Real-time weather using OpenWeather API | HTML, CSS, JS |
+| 🧠 Sentiment Analyzer | Analyzes tweet emotions using NLP | Python, ML |
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 ML-based Agriculture Enhancement – **1st Prize** at IDEA CONTEST  
-- 🥈 Spam Filter Project – **2nd Prize** at Engineers Day Presentation
+- 🥇 1st Prize – ML Agriculture Enhancement at IDEA CONTEST  
+- 🥈 2nd Prize – Spam Filter App on Engineers Day  
 
 ---
 
-## 🛰️ Live Systems Monitoring...
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyazshaik52&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazshaik52&layout=compact&theme=tokyonight)
-
----
-
-## 🛡️ Defense Protocol (License)
-
-This code is released under the [MIT License](./LICENSE).  
-> Plagiarizing Stark tech? Not cool.
-
----
-
-## 🧬 Quote to Live By
-
-> “The truth is... I am Ironman.” – Tony Stark
-
----
+## 📊 GitHub Intelligence Report
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=riyazshaik52&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyazshaik52&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🛰 Connect with Me
+## 🔐 Defense Protocol
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riyaz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/riyaz52/)
-[![GitHub](https://img.shields.io/badge/GitHub-riyazshaik52-black?style=flat&logo=github)](https://github.com/riyazshaik52)
+This repository is licensed under the [MIT License](./LICENSE).  
+> Built with 🔥 by Shaik Riyaz. Plagiarizing Stark tech is NOT allowed!
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/riyaz52/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/riyazshaik52"><img src="https://img.shields.io/badge/GitHub-riyazshaik52-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+</p>
+
+<p align="center"><i>“I am Ironman.”</i></p>
