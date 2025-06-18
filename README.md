@@ -1,91 +1,84 @@
 
-<h1 align="center">Hi 👋, I'm Shaik Riyaz</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+AI%2FML+Engineer;Passionate+Full+Stack+Developer;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
-</h3>
+<h1 align="center"><img src="https://media.giphy.com/media/IeRdg7zdcKxeg/giphy.gif" width="50"/> Shaik Riyaz — AI/ML Developer in the Making </h1>
 
-![visitors](https://komarev.com/ghpvc/?username=riyazshaik52&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **AI-integrated web applications and real-time ML systems**
-- 🌱 Passionate about **Data Science, Full-Stack Development, and Deep Learning**
-- 💬 Ask me about **Python, Django, ML, CNNs, and Real-time Projects**
-- 🎯 Career Goal: To contribute as an AI/ML or Software Engineer in a dynamic tech environment
-- 📫 Reach me at: **shaikriyaz1574@gmail.com**
-- 🧠 Fun Fact: I build ideas into scalable projects that solve real problems
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20By-Python%20%26%20AI-red?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Iron%20Mind-Focused-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
-### 🧪 My Tech Stack
+## 🦾 About Me – The Dev Behind the Code
 
-- **Languages & Frameworks**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+> “Sometimes you gotta run before you can walk.” – **Tony Stark**
 
-- **Frontend**:  
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+🧠 Self-driven and future-focused, I’m a final-year **CSE (AI/ML)** student with passion for AI systems, web apps, and real-time tech.
 
-- **Database & Tools**:  
-  ![MS SQL Server](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🧰 Building solutions that feel like J.A.R.V.I.S. for real-world problems  
+- 🤖 AI/ML | Django | SQL | Full Stack  
+- 🚀 Constantly learning and upgrading
 
 ---
 
-### 💡 Highlight Projects
+## 🧪 Technologies in My Suit
 
-#### 🛰️ Drought Prediction using Satellite Images (CNN + ML + Flask)
-<img src="assets/drought-predict-demo.gif" width="600"/>
-
-#### 🛠 Machine Management System (Java Full Stack)
-<img src="assets/machine-system-demo.gif" width="600"/>
-
-#### 🌦️ Weather Forecasting App
-<img src="assets/weather-app-demo.gif" width="600"/>
-
----
-
-### 👨‍🎓 Internships
-
-- **Machine Learning Intern @ Edunet with APSSDC**  
-  _May 2024 – June 2024_
-- **Full Stack Development Intern @ RINL-VSP (Visakhapatnam Steel Plant)**  
-  _June 2024 – July 2024_
+```python
+MY_TECH_STACK = {
+    "Languages": ["Python", "JavaScript", "HTML", "CSS"],
+    "Frameworks": ["Django", "Flask"],
+    "Database": ["MS SQL Server"],
+    "Machine Learning": ["Pandas", "Scikit-learn", "TensorFlow"],
+    "Tools": ["VS Code", "Excel"],
+    "Soft Skills": ["Problem Solving", "Time Management", "Communication"]
+}
+```
 
 ---
 
-### 🏆 Achievements
+## 🧰 My Arc Reactor (Projects)
 
-- 🥇 1st Prize – ML-based Agriculture Enhancement Idea @ IDEA CONTEST
-- 🥈 2nd Prize – Spam Filtering Project Presentation on Engineers Day
-
----
-
-### 📜 Certifications
-
-- AI & ML – Edunet APSSDC (IBM Skills Build)
-- Python Web Development – ICT Academy
-- Data Science, ML & Python – EdX
-- Java Fundamentals – Oracle Academy
+| Project | Tech | Description |
+|--------|------|-------------|
+| 🛰️ **Drought Prediction (DCNN + Flask)** | Python, ML, Flask | CNN model with 95% accuracy to predict drought from satellite imagery |
+| 🛠️ **Machine Management System** | Java Full Stack | Frontend dev of an internal system for machine ops |
+| 🌦️ **Weather App** | JS, HTML, CSS, OpenWeather API | Real-time responsive weather dashboard |
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Achievements
 
-![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyazshaik52&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazshaik52&layout=compact&theme=radical)
-
----
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyaz52/)
-[![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyazshaik52)
+- 🥇 ML-based Agriculture Enhancement – **1st Prize** at IDEA CONTEST  
+- 🥈 Spam Filter Project – **2nd Prize** at Engineers Day Presentation
 
 ---
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🛰️ Live Systems Monitoring...
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyazshaik52&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazshaik52&layout=compact&theme=tokyonight)
+
+---
+
+## 🛡️ Defense Protocol (License)
+
+This code is released under the [MIT License](./LICENSE).  
+> Plagiarizing Stark tech? Not cool.
+
+---
+
+## 🧬 Quote to Live By
+
+> “The truth is... I am Ironman.” – Tony Stark
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="350"/>
+</p>
+
+---
+
+### 🛰 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riyaz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/riyaz52/)
+[![GitHub](https://img.shields.io/badge/GitHub-riyazshaik52-black?style=flat&logo=github)](https://github.com/riyazshaik52)
