@@ -48,7 +48,7 @@
 
 </td>
 <td align="center">
-  <img src="[[https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://www.google.com/imgres?q=coding%20programmer%20typing%20gif%20animated&imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fprogrammer-working-on-pc-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-c-programming-code-languages-pack-design-development-animations-3262957.gif&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fcomputer-programming-3917226&docid=aVa8UGTN_bFNeM&tbnid=ioBZdHnUmWIyQM&vet=12ahUKEwi_lZWF4vqNAxUF4zgGHfZLCMAQM3oECGsQAA..i&w=317&h=420&hcb=2&ved=2ahUKEwi_lZWF4vqNAxUF4zgGHfZLCMAQM3oECGsQAA)" width="250"](https://ouch-prod-src-cdn.icons8.com/as/videos/ePo1FDpxhswRSZ5Y.webm) alt="programmer-typing" />
+  <img src="1d6bc03c3dd55bc1c59cec84edb81a46.gif alt="programmer-typing" />
 </td>
 </tr>
 </table>
