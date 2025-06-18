@@ -48,7 +48,7 @@
 
 </td>
 <td align="center">
-  <img src="1d6bc03c3dd55bc1c59cec84edb81a46.gif alt="programmer-typing" />
+  <img src="image.gif alt="programmer-typing" />
 </td>
 </tr>
 </table>
