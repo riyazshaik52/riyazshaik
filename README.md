@@ -18,6 +18,10 @@
 
 ## 🛠️ Skills & Technologies
 
+<table>
+<tr>
+<td>
+
 ### 💻 Programming & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,25 +32,32 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🤖 Machine Learning & Tools
+### 🧠 Machine Learning & Tools
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-### 🧰 Tools & IDEs
+### 📈 Tools & IDEs
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+</td>
+<td align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="programmer-typing" />
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🌟 Featured Projects
 
-| 🧠 Project | 🚀 Description | 🛠 Tech Stack |
+| 🧠 Project | 🚀 Description | 🛠️ Tech Stack |
 |-----------|----------------|--------------|
 | **Drought Predictor** | Real-time CNN model with 95% accuracy using satellite images | Python, Flask, Deep Learning |
 | **Machine Management System** | Full stack system for user & employee management | HTML, CSS, JavaScript |
@@ -55,7 +66,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riyazshaik52&show_icons=true&theme=react" />
