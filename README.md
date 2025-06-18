@@ -1,90 +1,82 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7zdcKxeg/giphy.gif" width="150"/>
-</p>
-
-<h1 align="center"><strong>Shaik Riyaz</strong></h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Full Stack Developer | Ironman-Inspired Coder</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#0B5ED7">Shaik Riyaz</span></h1>
+<h3 align="center">Aspiring AI/ML Engineer | Full-Stack Developer | Problem Solver</h3>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/POWERED_BY-Python,%20Django,%20ML-red?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CODE_MODE-Stark-Tech-blue?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## ✨ About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00F7FF&width=435&lines=AI+Engineer+in+Progress...;Coding+Like+Tony+Stark;Crafting+Real-Time+Solutions;Always+Learning%2C+Always+Evolving" />
-</p>
+🎓 I'm a final-year **Computer Science (AI/ML)** student passionate about building intelligent and impactful tech solutions.  
+🚀 I'm constantly learning, exploring real-time AI, web development, and data-driven applications.  
+💬 Ask me about **Python, Machine Learning, Django, or Full Stack Projects**.  
+📫 Reach me at: shaikriyaz1574@gmail.com
 
 ---
 
-## 🧠 About Me
+## 🔧 Technical Skills
 
-💡 I'm a CSE (AI/ML) Final Year Student passionate about building intelligent, responsive apps and solving real-world problems with code.  
-⚙️ Specialize in Python, Django, ML, and responsive web technologies.  
-🧰 Tech-stacked like Stark's suit – fast, futuristic, and functional.
+### 👨‍💻 Programming & Frameworks:
+- 🐍 **Python**
+- 🌐 **Django**, **Flask**
+- 🌟 **JavaScript**, **HTML**, **CSS**
+
+### 🧠 Machine Learning & Tools:
+- 🤖 **Scikit-learn**, **TensorFlow**, **Pandas**
+- 🧪 **Data Preprocessing**, **Model Evaluation**
+
+### 🗄️ Databases & Tools:
+- 🗃️ **MS SQL Server**
+- 🧰 **Visual Studio Code**, **Git**, **Excel**
+
+### 💡 Soft Skills:
+- 🗣️ Excellent Communication
+- 🤝 Team Collaboration
+- ⏱️ Time Management
+- 🧩 Analytical Problem Solving
 
 ---
 
-## 🧪 My Ironman Tech Stack
+## 🛠️ Projects
 
-```py
-🧠 LANGUAGES        : Python | JavaScript | HTML | CSS
-🧰 FRAMEWORKS       : Django | Flask
-🗄️ DATABASE         : MS SQL Server
-📦 TOOLS            : VS Code | GitHub | Excel
-🧬 ML STACK         : Pandas | Scikit-learn | TensorFlow
-🧠 SOFT SKILLS      : Time Management | Problem Solving | Teamwork
-```
+| 💡 Project | Description | Tech Stack |
+|-----------|-------------|------------|
+| 🛰️ **Drought Prediction using Satellite Images** | Built a real-time DCNN model with 95% accuracy using Flask and satellite data | Python, Flask, CNN |
+| ⚙️ **Machine Management System** | Frontend for industrial machine ops dashboard | HTML, CSS, JavaScript |
+| 🌦️ **Weather Forecast App** | Live weather updates using OpenWeather API | HTML, JS, API |
+| 💬 **Sentiment Analysis** | Analyzed tweet emotions for classification | Python, NLP, Pandas |
 
 ---
 
-## 🛠️ Projects (My Mini J.A.R.V.I.S.)
+## 📜 Certifications
 
-| 💻 Project | 💡 Description | 🛠️ Tech |
-|-----------|----------------|---------|
-| 🛰️ Drought Predictor | Real-time DCNN model with 95% accuracy to detect drought zones from satellite data | Python, Flask, CNN |
-| 🧾 Machine Manager | Full-stack machine management system (Frontend Dev role) | Java, HTML/CSS |
-| 🌦️ Weather Dashboard | Real-time weather using OpenWeather API | HTML, CSS, JS |
-| 🧠 Sentiment Analyzer | Analyzes tweet emotions using NLP | Python, ML |
+- 🧠 AI & ML – Edunet APSSDC (IBM Skills Build)
+- 📊 Data Science & Python – EdX
+- 🌐 Web Development – ICT Academy
+- ☕ Java Fundamentals – Oracle Academy
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 1st Prize – ML Agriculture Enhancement at IDEA CONTEST  
-- 🥈 2nd Prize – Spam Filter App on Engineers Day  
+- 🥇 1st Prize – ML-Based Agriculture Solution @ IDEA CONTEST  
+- 🥈 2nd Prize – Spam Filtering Presentation @ Engineers Day  
 
 ---
 
-## 📊 GitHub Intelligence Report
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyazshaik52&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyazshaik52&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyazshaik52&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyazshaik52&layout=compact" />
 </p>
-
----
-
-## 🔐 Defense Protocol
-
-This repository is licensed under the [MIT License](./LICENSE).  
-> Built with 🔥 by Shaik Riyaz. Plagiarizing Stark tech is NOT allowed!
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/riyaz52/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/riyazshaik52"><img src="https://img.shields.io/badge/GitHub-riyazshaik52-black?style=for-the-badge&logo=github" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riyaz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/riyaz52/)  
+[![GitHub](https://img.shields.io/badge/GitHub-riyazshaik52-black?style=flat&logo=github)](https://github.com/riyazshaik52)
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-</p>
-
-<p align="center"><i>“I am Ironman.”</i></p>
+<i>“Learning never exhausts the mind. Code. Create. Collaborate.”</i>
