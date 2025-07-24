@@ -80,7 +80,7 @@
 <p align="center">
   <a href="mailto:shaikriyaz1574@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/riyaz52/"><img src="https://img.shields.io/badge/LinkedIn-Riyaz-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/riyazshaik52"><img src="https://img.shields.io/badge/GitHub-riyazshaik52-black?style=flat-square&logo=github"></a>
+  <a href="https://github.com/riyazshaik52/riyazshaik"><img src="https://img.shields.io/badge/GitHub-riyazshaik52-black?style=flat-square&logo=github"></a>
 </p>
 
 ---
