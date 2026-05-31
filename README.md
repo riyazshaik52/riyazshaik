@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # ⚡ Hey, I'm Shaik Riyaz
@@ -25,12 +25,10 @@
 
 # 🧑‍💻 About Me
 
-```java
-class ShaikRiyaz {
 
+class ShaikRiyaz {
     String role = "Java Full Stack Developer";
     String education = "MS in Data Science";
-    
     String[] interests = {
         "Artificial Intelligence",
         "Machine Learning",
@@ -38,7 +36,6 @@ class ShaikRiyaz {
         "Backend Development",
         "Problem Solving"
     };
-
     String[] currentlyLearning = {
         "Spring Boot",
         "DSA in Java",
@@ -46,7 +43,6 @@ class ShaikRiyaz {
         "Real-world AI Projects"
     };
 }
-````
 
 ---
 
