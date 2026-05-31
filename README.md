@@ -18,7 +18,6 @@
 
 </div>
 
-```
 ## 👨‍💻 About Me
 
 <div align="center">
@@ -42,7 +41,6 @@
 <img src="https://img.shields.io/badge/Scalable_Applications-4285F4?style=for-the-badge"/>
 
 </div>
-```
 
 
 ## ⚒️ Tech Stack
