@@ -1,88 +1,164 @@
-<h1 align="center">Hi there, I'm <span style="color:#007ACC">Shaik Riyaz</span> 👋</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Full Stack Developer | Problem Solver</h3>
+````md
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=0AFFEF&width=435&lines=Passionate+Developer;Machine+Learning+Enthusiast;Full+Stack+Problem+Solver;Lifelong+Learner" />
-</p>
+# ⚡ Hey, I'm Shaik Riyaz
 
-<p align="center">
-  <a href="https://github.com/riyazshaik52">
-    <img src="https://img.shields.io/github/followers/riyazshaik52?label=Follow&style=social" />
-  </a>
-  <a href="https://linkedin.com/in/riyaz52/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-</p>
+### 🚀 Java Full Stack Developer | AI/ML Engineer | Problem Solver
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Django+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;DSA+Learner+%26+Problem+Solver" />
 
-## 🛠️ Skills & Technologies
+<br>
 
-<table>
-<tr>
-<td>
+<a href="https://github.com/riyazshaik52">
+<img src="https://img.shields.io/github/followers/riyazshaik52?style=for-the-badge&color=00C2FF&labelColor=000000"/>
+</a>
 
-### 💻 Programming & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<a href="https://linkedin.com/in/riyaz52">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### 🧠 Machine Learning & Tools
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=riyazshaik52&style=for-the-badge&color=blueviolet"/>
 
-### 📈 Tools & IDEs
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-</td>
-<td align="center">
-  <img src="hey.gif" width="250" alt="programmer-typing" />
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🌟 Featured Projects
+# 🧑‍💻 About Me
 
-| 🧠 Project | 🚀 Description | 🛠️ Tech Stack |
-|-----------|----------------|--------------|
-| **Drought Predictor** | Real-time CNN model with 95% accuracy using satellite images | Python, Flask, Deep Learning |
-| **Machine Management System** | Full stack system for user & employee management | HTML, CSS, JavaScript |
-| **Weather App** | Real-time responsive weather data using API | JavaScript, OpenWeather API |
-| **Sentiment Analysis** | Twitter sentiment analysis using ML & NLP | Python, Pandas, Scikit-learn |
+```java
+class ShaikRiyaz {
 
----
+    String role = "Java Full Stack Developer";
+    String education = "MS in Data Science";
+    
+    String[] interests = {
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Backend Development",
+        "Problem Solving"
+    };
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyazshaik52&show_icons=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyazshaik52&layout=compact&theme=react" />
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:shaikriyaz1574@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/riyaz52/"><img src="https://img.shields.io/badge/LinkedIn-Riyaz-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/riyazshaik52/riyazshaik"><img src="https://img.shields.io/badge/GitHub-riyazshaik52-black?style=flat-square&logo=github"></a>
-</p>
+    String[] currentlyLearning = {
+        "Spring Boot",
+        "DSA in Java",
+        "System Design",
+        "Real-world AI Projects"
+    };
+}
+````
 
 ---
 
-<p align="center"><i>"Simplicity is the ultimate sophistication."</i> — Leonardo da Vinci</p>
+# ⚙️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+
+### 🚀 Frameworks & Backend
+
+<img src="https://skillicons.dev/icons?i=spring,django,flask"/>
+
+### 🧠 AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+### 🛢️ Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌍 RevHire Platform
+
+> Smart hiring & recruitment platform focused on candidate tracking and workflow management.
+
+**Tech Stack:** `Java` `Spring Boot` `SQL`
+
+---
+
+### 🌾 Drought Prediction & Water Level Analysis
+
+> AI-powered drought prediction system using satellite imagery and Deep CNN.
+
+**Tech Stack:** `Python` `Deep Learning` `Flask`
+
+---
+
+### 🏭 Machine Maintenance System
+
+> Employee & machine management system with database integration.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript` `Oracle DB`
+
+---
+
+### 🌦️ Weather App
+
+> Real-time weather forecasting application using APIs.
+
+**Tech Stack:** `JavaScript` `REST API`
+
+---
+
+### 💬 Sentiment Analysis
+
+> NLP-based Twitter sentiment analysis system.
+
+**Tech Stack:** `Python` `Scikit-Learn`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=riyazshaik52&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=riyazshaik52&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyazshaik52&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:shaikriyaz1574@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/riyaz52">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/riyazshaik52">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Building intelligent systems and scalable applications one line of code at a time."*
+
+</div>
+```
