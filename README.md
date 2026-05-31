@@ -18,17 +18,32 @@
 
 </div>
 
+```md
 ## 👨‍💻 About Me
 
-```yaml
-role: Java Full Stack Developer
-education: MS in Data Science
-focus:
-  - Spring Boot
-  - AI/ML
-  - DSA
-  - Scalable Applications
+<div align="center">
+
+| 💼 Role | 🎓 Education |
+|----------|---------------|
+| Java Full Stack Developer | MS in Data Science |
+
+</div>
+
+<div align="center">
+
+### 🚀 Current Focus
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scalable_Applications-4285F4?style=for-the-badge"/>
+
+</div>
 ```
+
 
 ## ⚒️ Tech Stack
 
